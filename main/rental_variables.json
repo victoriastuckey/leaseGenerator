@@ -1,0 +1,11 @@
+{
+    "landlord_name": "Victoria Stuckey",
+    "tenant_name": "Sagwa",
+    "tenant_address": "10828 Fulton Ave, Austin, TX 78754",
+    "late_fee": 35,
+    "lease_start_date": "August 25, 2023",
+    "lease_end_date": "August 26, 2023",
+    "rent_per_month": 880,
+    "security_deposit": 880
+  }
+  
